@@ -1,70 +1,30 @@
-# Getting Started with Create React App
+<h1>PORTFORIO</h1>
+<h4>김희원</h4>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+<br>
+<h2>반응형 웹페이지</h2>
 
-In the project directory, you can run:
+<h3>뷰포트에 따라 다른 메뉴 토글 구현</h3>
 
-### `npm start`
+<img width="1440" alt="스크린샷 2023-09-25 오전 11 14 29" src="https://github.com/heetanwon/portfolio/assets/124863100/2c3c665e-246c-4acc-bae9-ff86aa703755">
+<br>
+<img width="1440" alt="스크린샷 2023-09-25 오전 11 14 40" src="https://github.com/heetanwon/portfolio/assets/124863100/2669f448-68f4-440c-b261-8e283331ea1a">
+<br>
+<img width="1440" alt="스크린샷 2023-09-25 오전 11 15 29" src="https://github.com/heetanwon/portfolio/assets/124863100/f65e0f93-da9c-4f26-be0d-ed3afe60dfcf">
+<br>
+<img width="1440" alt="스크린샷 2023-09-25 오전 11 14 52" src="https://github.com/heetanwon/portfolio/assets/124863100/ab3f4437-ad1a-44e1-8baf-a72993d2d47e"> 
+<br>
+<img width="1440" alt="스크린샷 2023-09-25 오전 11 14 56" src="https://github.com/heetanwon/portfolio/assets/124863100/64f8d953-5cc2-4af8-998a-76aa5350c5cb">
+<br>
+<img width="1440" alt="스크린샷 2023-09-25 오전 11 15 01" src="https://github.com/heetanwon/portfolio/assets/124863100/7d328295-0e3a-433a-b174-b882b72f5af0">
+<br>
+<img width="1440" alt="스크린샷 2023-09-25 오전 11 15 05" src="https://github.com/heetanwon/portfolio/assets/124863100/738cefee-8fdb-4a3c-b7b3-d1a974fdbb87">
+<br>
+<img width="1440" alt="스크린샷 2023-09-25 오전 11 15 10" src="https://github.com/heetanwon/portfolio/assets/124863100/b2ae4092-c9cc-40cf-8894-6d0eee733613">
+<br>
+<img width="1440" alt="스크린샷 2023-09-25 오전 11 15 15" src="https://github.com/heetanwon/portfolio/assets/124863100/8d413501-7bcc-4bc7-b7b8-8ac6a5727f95">
+<br>
+<img width="1440" alt="스크린샷 2023-09-25 오전 11 15 18" src="https://github.com/heetanwon/portfolio/assets/124863100/53dab964-0dc1-426f-9d55-8c222e167b1b">
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
