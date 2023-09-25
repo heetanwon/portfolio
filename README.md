@@ -1,4 +1,4 @@
-<h1>PORTFORIO</h1>
+<h1>PORTFOLIO</h1>
 <h4>김희원</h4>
 
 <br>
